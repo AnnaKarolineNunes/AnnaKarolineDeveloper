@@ -1,4 +1,9 @@
-## Hey! I'm anna Karoline and i'm a student of information systems to work as a front end developer 
+## Olá pessoal! Eu sou a Anna Karoline!
+Mais sobre mim ... <br>
+-📚 Estudando JavaScript <br>
+-👩🏾‍💻 Sistemas da Informação 2/8 <br>
+-🎙️ English advanced
+
 <div align="center">
   <a href="https://github.com/AnnaKarolinedevweb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaKarolinedevweb&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
