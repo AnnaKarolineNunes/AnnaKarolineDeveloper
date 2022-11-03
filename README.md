@@ -1,6 +1,6 @@
 ## Olá pessoal! Eu sou a Anna Karoline!
 Mais sobre mim ... <br>
--📚 Estudando JavaScript <br>
+-📚 Estudando python,powershell,javascript e react <br>
 -👩🏾‍💻 Sistemas da Informação 2/8 <br>
 -🎙️ English advanced
 
