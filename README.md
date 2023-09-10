@@ -1,8 +1,16 @@
-## Olá pessoal! Eu sou a Anna Karoline!
-Mais sobre mim ... <br>
--📚 Estudando python,powershell,javascript e react <br>
--👩🏾‍💻 Sistemas da Informação 2/8 <br>
--🎙️ English advanced
+## Fala pessoal!
+<div align="center">
+<img  src="https://media.licdn.com/dms/image/D4D03AQFruiDHTWrIhA/profile-displayphoto-shrink_200_200/0/1693261767528?e=1700092800&v=beta&t=pDtqo-vaM2gZ1b6ZDaU26WcKOgvDzReA3AyHuXEdwRc" alt="Hi folks!" width="25%" height="25%"/>
+</div>
+Mais sobre mim ... 📚 <br>
+- Estudando desenvolvimento de aplicações mobile com java a fim de aprimorar minhas habilidades técnicas e minha compreensão do ciclo de vida completo do desenvolvimento de aplicativos.  <br>
+- Desenvolvimento de aplicaçoes na plataforma PowerApps <br>
+- Construção de protótipos com figma respeitando as regras UX UI <br>
+- Criação/Atualizaçao/Manutenção de dashboards Power Bi <br>
+- Criação de protótipos  <br>
+- Automaçao com python e powershell <br>
+- Faculdade Sistemas da Informação <br> 
+- English advanced
 
 <div align="center">
   <a href="https://github.com/AnnaKarolinedevweb">
@@ -11,16 +19,16 @@ Mais sobre mim ... <br>
 
 ## Tecnologias que uso no dia a dia 
  
-<div style="display: inline_block"><br>
-  <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="David-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="David-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="David-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<div align="center">
 
-  </div>
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-Html-05122A?style=for-the-badge&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-Css-05122A?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Power BI](https://img.shields.io/badge/-PowerBi-05122A?style=for-the-badge&logo=powerbi)&nbsp;
+</div>
   
 ## Me encontre nas redes sociais
 
