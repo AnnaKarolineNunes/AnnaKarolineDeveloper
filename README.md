@@ -3,7 +3,7 @@
 <img  src="https://media.licdn.com/dms/image/D4D03AQFruiDHTWrIhA/profile-displayphoto-shrink_200_200/0/1693261767528?e=1700092800&v=beta&t=pDtqo-vaM2gZ1b6ZDaU26WcKOgvDzReA3AyHuXEdwRc" alt="Hi folks!" width="25%" height="25%"/>
 </div>
 Mais sobre mim ... 📚 <br>
-- Estudando desenvolvimento de aplicações mobile com java a fim de aprimorar minhas habilidades técnicas e minha compreensão do ciclo de vida completo do desenvolvimento de aplicativos.  <br>
+- Estudando desenvolvimento de aplicações mobile com java e Kotlin a fim de aprimorar minhas habilidades técnicas e minha compreensão do ciclo de vida completo do desenvolvimento de aplicativos.  <br>
 - Desenvolvimento de aplicaçoes na plataforma PowerApps <br>
 - Construção de protótipos com figma respeitando as regras UX UI <br>
 - Criação/Atualizaçao/Manutenção de dashboards Power Bi <br>
