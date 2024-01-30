@@ -1,9 +1,9 @@
-## Fala pessoal!
+## Fala pessoal! Eu sou a Karol 
 <div align="center">
 <img  src="https://github.com/AnnaKarolineNunes/AnnaKarolineDeveloper/assets/101477642/514ebfc8-0da3-4a9c-ab6f-d4e590026005" width="25%" height="25%"/>
 </div>
 Mais sobre mim ... 📚 <br>
-- Estudando desenvolvimento de aplicações mobile com java e Kotlin a fim de aprimorar minhas habilidades técnicas e minha compreensão do ciclo de vida completo do desenvolvimento de aplicativos.  <br>
+- 23 anos, Estudando desenvolvimento de aplicações mobile com java e Kotlin a fim de aprimorar minhas habilidades técnicas e minha compreensão do ciclo de vida completo do desenvolvimento de aplicativos.  <br>
  -  Faculdade Sistemas da Informação <br> 
 
 ## Tecnologias que uso no dia a dia 
