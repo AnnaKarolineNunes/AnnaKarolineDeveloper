@@ -4,16 +4,23 @@
 </div>
 Mais sobre mim ... 📚 <br>
 - Estudando desenvolvimento de aplicações mobile com java e Kotlin a fim de aprimorar minhas habilidades técnicas e minha compreensão do ciclo de vida completo do desenvolvimento de aplicativos.  <br>
-- Desenvolvimento de aplicaçoes na plataforma PowerApps <br>
-- Construção de protótipos com figma respeitando as regras UX UI <br>
-- Criação/Atualizaçao/Manutenção de dashboards Power Bi <br>
-- Criação de protótipos  <br>
-- Automaçao com python e powershell <br>
-- Faculdade Sistemas da Informação <br> 
-- English advanced
+ -  Faculdade Sistemas da Informação <br> 
 
 ## Tecnologias que uso no dia a dia 
- 
+
+ - Logica de Programação | Java | Programação Orientada a Objetos
+ - XML & Constraint Layout
+ - Figma | Princípios de UI/UX
+ -  Android Studio | Figma | Trelo
+ -  Git/Github
+ -  SQLite | Firebase
+ -  Devops: CI/CD | Jenkins | Docker Hub
+ -  JavaScript| HTML5 | CSS3
+ -  Metogologias Ágeis: Scrum e Kanban
+ -  Línguas: Português e Inglês
+ -  Desenvolvimento de aplicaçoes na plataforma PowerApps 
+ -  Criação/Atualizaçao/Manutenção de dashboards Power Bi 
+ -  English advanced
 
   
 ## Me encontre nas redes sociais
@@ -24,3 +31,7 @@ Mais sobre mim ... 📚 <br>
   <a href="https://www.linkedin.com/in/annakarolinedevweb
 /" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## Estatísticas
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AnnaKarolineNunes&hide_border=true&range=all_time&PAT_1=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&theme=shades-of-purple)
