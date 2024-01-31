@@ -15,7 +15,7 @@ Mais sobre mim ... 📚 <br>
  -  Git/Github
  -  SQLite | Firebase
  -  Devops: CI/CD | Jenkins | Docker Hub
- -  JavaScript| HTML5 | CSS3
+ -  JavaScript | HTML5 | CSS3
  -  Metogologias Ágeis: Scrum e Kanban
  -  Línguas: Português e Inglês
  -  Desenvolvimento de aplicaçoes na plataforma PowerApps 
