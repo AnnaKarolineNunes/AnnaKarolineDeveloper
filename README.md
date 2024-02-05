@@ -32,6 +32,3 @@ Mais sobre mim ... 📚 <br>
 /" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Estatísticas
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AnnaKarolineNunes&hide_border=true&range=all_time&PAT_1=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&theme=shades-of-purple)
