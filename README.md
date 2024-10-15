@@ -3,20 +3,21 @@
 <img  src="https://github.com/AnnaKarolineNunes/AnnaKarolineDeveloper/assets/101477642/514ebfc8-0da3-4a9c-ab6f-d4e590026005" width="25%" height="25%"/>
 </div>
 Mais sobre mim ... 📚 <br>
-- 23 anos, Estudando desenvolvimento de aplicações mobile com java e Kotlin a fim de aprimorar minhas habilidades técnicas e minha compreensão do ciclo de vida completo do desenvolvimento de aplicativos.  <br>
+- 24 anos, cursando Sistemas de Informação na Newton Paiva , prática no desenvolvimento de aplicações web com Java, Spring, Spring Boot,API RESTful ,JPA e Hibernate, React native, Node js e Tailwind. <br>
  -  Faculdade Sistemas da Informação <br> 
 
 ## Tecnologias que uso no dia a dia 
 
- - Logica de Programação | Java | Programação Orientada a Objetos
- - XML & Constraint Layout
- - Figma | Princípios de UI/UX
- -  Android Studio | Figma | Trelo
- -  Git/Github
- -  SQLite | Firebase
- -  Devops: CI/CD | Jenkins | Docker Hub
- -  JavaScript | HTML5 | CSS3
- -  Metogologias Ágeis: Scrum e Kanban
+ -  Logica de Programação | Java | Programação Orientada a Objetos
+ -  HTML5 | CSS3 | Tailwind | JavaScript | React | Node js
+ -  Figma | UI/UX Principles | XML & Constraint Layout
+ -  Android Studio |Eclipse| Trello | IntelliJ | VS Code
+ -  Spring Boot | Hibernate| Java Web
+ -  API Rest | HTTP| Postman |Insomnia| SQL |Python| MySQL| PostgreSQL | MongoDB
+ -  Git| Github| BitBucket
+ -  JUnit | Sonarqube | Selenium
+ -  CI/CD | Jenkins | Docker | Kubernetes | AWS
+ -  Metodologias ágeis: Scrum e Kanban
  -  Línguas: Português e Inglês
  -  Desenvolvimento de aplicaçoes na plataforma PowerApps 
  -  Criação/Atualizaçao/Manutenção de dashboards Power Bi 
