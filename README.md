@@ -18,7 +18,6 @@ Mais sobre mim ... 📚 <br>
  -  JUnit | Sonarqube | Selenium
  -  CI/CD | Jenkins | Docker | Kubernetes | AWS
  -  Metodologias ágeis: Scrum e Kanban
- -  Línguas: Português e Inglês
  -  Desenvolvimento de aplicaçoes na plataforma PowerApps 
  -  Criação/Atualizaçao/Manutenção de dashboards Power Bi 
  -  English advanced
